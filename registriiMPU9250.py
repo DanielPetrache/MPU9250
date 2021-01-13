@@ -1,4 +1,4 @@
-#registrii mpu
+#MPU9250 used registers
 mpu_adresa = 0x68
 magne_adresa = 0x0C
 
